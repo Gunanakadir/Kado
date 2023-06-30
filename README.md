@@ -1,2 +1,1 @@
-# Kado
-Ben kadir gelismek istiyorum 
+"gunanakadir" "gunanakadir"
